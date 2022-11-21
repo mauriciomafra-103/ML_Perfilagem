@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Machine learning para predição de Litologia com dados de Perfilagem
 
-Rápida descrição do objetivo de fazer esse projeto
+O objetivo do projeto é utilizar dados geofísicos de perfilagem para determinar a litologia do local utilizando Machine Learning
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Machine learning para predição de Litologia com dados de Perfilagem**
+| :label: Tecnologias | Python, Scikt_Learn (tecnologias utilizadas)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![](file:///home/mayara/Downloads/dpng#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto foi realizado no ano de 2020 e proposto pela XEEK com o objetivo de interpretação litológica com Machine Learning. 
+Peguei os dados do projeto e solucionei a minha maneira para explicar o aprendizado de máquina, processamento de dados e aplicação geofísica e geológica na realidade.
+O projeto consegue utilizar uma boa quantidade dados e assim é possível fazer boas previsões com os dados. 
